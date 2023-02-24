@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/u4lc9xp0gf1stin9?svg=true)](https://ci.appveyor.com/project/TatianaYuryeva/js-regex)
